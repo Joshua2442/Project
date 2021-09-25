@@ -1,10 +1,32 @@
+.bayar{
+  background-color: white;
+  text-align: center;
+  
+}
+
+.form{
+  background-color: white;
+  width: 420px;
+  border: 1px  solid black;
+  padding: 100px;
+  margin: auto;
+}
+
 .ucap{
   text-align: center;
 }
 
 .nomor{
   text-transform: capitalize;
-  text-justify: auto;
   font-size: 20px;
-  font-style: italic;
+  font-style: italic; 
 }
+
+.footer {
+  color: white;
+}
+
+.footer a {
+  color: white;
+}
+
