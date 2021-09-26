@@ -10,6 +10,10 @@ header img {
   margin-right: auto;
 }
 
+.nav-item:hover {
+  background-color: #1d1d1d;
+}
+
 .form{
   background-color: white;
   width: 420px;
