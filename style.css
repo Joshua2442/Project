@@ -22,6 +22,20 @@
   font-style: italic; 
 }
 
+.topup{
+  width: 400px;
+  border: 1px solid black;
+  padding: 60px;
+  margin: auto ;
+}
+
+.nomor{
+  text-transform: capitalize;
+  font-size: 20px;
+  font-style: italic; 
+  text-align: left;
+}
+
 .footer {
   color: white;
 }
