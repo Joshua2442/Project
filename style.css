@@ -50,6 +50,12 @@ header img {
   text-align: center;
 }
 
+.container{
+  text-align: center;
+  border: 1px solid black;
+  padding: 40px;
+}
+
 .footer {
   color: white;
 }
