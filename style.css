@@ -57,8 +57,11 @@ header img {
 }
 
 .profile{
-  font-family: Arial, Helvetica, sans-serif;
- 
+  background-color: white;
+  width: 420px;
+  border: 1px solid black;
+  padding: 50px;
+  margin: auto;
 }
  
 .footer {
